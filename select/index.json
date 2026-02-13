@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Pink Hoodie",
+  "base_artist": "aespa",
+  "createdAt": "2026-02-13T14:38:54.274239Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pink Hoodie",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/01_Pink_Hoodie_aespa.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pink Hoodie",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/02_Pink_Hoodie_aespa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "pink hoodie",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/03_pink_hoodie_aespa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pink Hoodie",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/04_Pink_Hoodie_aespa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pink Hoodie (핑크 후디)",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/05_Pink_Hoodie_(핑크_후디)_aespa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pink Hoodie",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Pink_Hoodie_aespa.txt"
+    }
+  ]
+}
